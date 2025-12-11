@@ -1,3 +1,11 @@
+## 🌐 About Me:
+Hi there 👋
+
+Nice meeting you, I'm Aditya!
+
+🔭 I’m currently working at Headout.
+An enthusiastic learner who thrives on practical experiences, deeply committed to seamlessly integrating software solutions and driving collaborative team efforts. Eagerly preparing to embrace the dynamic challenges of the ever-evolving startup landscape, poised to make impactful contributions.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_xander1540?igsh=MTJ1M3VsaWwzdzcxeQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-narayan-verma-310710206/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaxxx2003@gmail.com) 
